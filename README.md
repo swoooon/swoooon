@@ -4,4 +4,4 @@
 
 https://swoon1.tistory.com/
 
-[![CodeForces Profile](http://cf.leed.at?id={swoon})](https://codeforces.com/profile/{swoon})
+[![CodeForces Profile](http://cf.leed.at?id=swoon)](https://codeforces.com/profile/swoon)
