@@ -4,7 +4,7 @@
 
 [![cf](http://cf.leed.at?id=swoon)](https://codeforces.com/profile/swoon)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=swoooon&orgs=mazassumnida,MEANSprops)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/swoooon/langs)](https://githubtrends.io)
 
 https://swoon1.tistory.com/
 
