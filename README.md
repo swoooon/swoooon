@@ -4,7 +4,7 @@
 
 [![cf](http://cf.leed.at?id=swoon)](https://codeforces.com/profile/swoon)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=swoon)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=swoooon)](https://github.com/anuraghazra/github-readme-stats)
 
 https://swoon1.tistory.com/
 
