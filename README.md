@@ -4,6 +4,4 @@
 
 [![cf](http://cf.leed.at?id=swoon)](https://codeforces.com/profile/swoon)
 
-https://swoon1.tistory.com/
-
-www.swoony.me
+blog.swoon.kr
